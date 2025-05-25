@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=woahai.com&style=plastic&url=https%3A%2F%2Fwoahai.com)](https://woahai.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://linkedin.com/company/woahai)
-[![WoahDream Bot](https://top.gg/api/widget/servers/1124468650154397836.svg)](https://top.gg/bot/1124468650154397836)
 [![WoahAI Server](https://img.shields.io/discord/1017220113159700550?style=plastic)](https://discord.gg/SePkKkUUAG)
 
 
