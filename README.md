@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=woahai.com&style=plastic&url=https%3A%2F%2Fwoahai.com)](https://woahai.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://linkedin.com/company/woahai)
-[![WoahAI Server](https://img.shields.io/discord/1017220113159700550?style=plastic)](https://discord.gg/SePkKkUUAG)
 
 
 
@@ -10,7 +9,6 @@
 
 Welcome to **WoahAI** :rocket:, an AI-powered solutions and research company revolutionizing the world of technology with our cutting-edge artificial intelligence services. We cater to a diverse range of creative and technological needs, including image and video editing, image and video generation, website creation, hosting, and coding. Check out our website at [soluify.com](https://soluify.com/).
 
-![Discord Server](https://invidget.switchblade.xyz/UGzCQ2vFVA)
 
 ## :mag_right: About Us
 
